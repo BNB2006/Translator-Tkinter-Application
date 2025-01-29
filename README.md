@@ -29,7 +29,7 @@ This project is a **Language Translator Application** built using Python's `Tkin
 
 ## Demo(output)
 
-![App Screenshot](Language_Translator.png)
+![App Screenshot](output.png)
 
 ## Code Overview
 
