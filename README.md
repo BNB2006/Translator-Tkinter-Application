@@ -2,6 +2,10 @@
 
 This project is a **Language Translator Application** built using Python's `Tkinter` library for the GUI and `googletrans` for translation functionality. The app allows users to translate text between different languages with a clean, user-friendly interface.
 
+## Demo(output)
+
+![App Screenshot](output.png)
+
 ## Features
 
 - **Auto Detect Language:** Automatically detects the source language.
@@ -26,10 +30,6 @@ This project is a **Language Translator Application** built using Python's `Tkin
    pip install pillow googletrans==3.1.0a0
    ```
 4. Save the `translator.png` file in the same directory as the script.
-
-## Demo(output)
-
-![App Screenshot](output.png)
 
 ## Code Overview
 
